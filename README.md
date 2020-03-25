@@ -2,7 +2,7 @@
 
 Would You Rather is a fully responsive and mobile-ready polling game that presents the user with a series of questions.
 
-![ScreenShot](https://github.com/RemoNabeeh/reactnd-project-would-you-rather/master/puplic/images/screenshot1.png)
+![](public/images/screenshot1.png)
 
 It's built with React, Redux, React Router, & Redux Thunk.
 
@@ -32,4 +32,4 @@ The project can be viewed in the browser at
 
 ## Screenshots
 
-![ScreenShot](https://github.com/RemoNabeeh/reactnd-project-would-you-rather/master/puplic/images/screenshot2.png)
+![](public/images/screenshot2.png)
